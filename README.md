@@ -11,4 +11,4 @@
 - Moo button (uppercase + "-MOO")
 
 ## How to Run
-Open `fancifymytext.html` in a browser.
+Open `fancifymytext.html` in a browser/live server.
